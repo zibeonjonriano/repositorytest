@@ -2,7 +2,7 @@
 
 Repository ini adalah repository yang digunakan untuk mengenalkan kamu dengan `git` yang akan banyak digunakan untuk Tugas Pemrograman nanti. Pada Lab 0 ini, kamu harus melakukan:
 
-- Fork repository ini sesuai dengan tutorial yang sudah diberikan 
+- Duplicate repository ini sesuai dengan tutorial yang sudah diberikan 
 - Buka repository dengan editor atau IDE yang biasa kamu gunakan
 - Buka file pemrograman dengan python pada folder `python` 
 - Translasikan kode tersebut dalam bentuk kode java yang dapat dijalankan serupa dengan file python yang disediakan
